@@ -1,1 +1,23 @@
-# islandsnow
+#topmenu {
+  background-color: #f5f5f5;
+  border: none;
+  box-shadow: none;
+}
+
+#middlemenu {
+  border: none;
+  box-shadow: none;
+  margin-top: 20px;
+}
+
+#footer {
+  height: 200px;
+  padding-top: 30px;
+  background-color: #292929;
+  color: #ffffff;
+  font-size: 14px;
+}
+
+a {
+  color: white;
+}
